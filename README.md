@@ -1,3 +1,9 @@
+
+Eduardo Trettel, primeira revisão: 
+- Alteração do script SQL banco.sql:
+-- Cria o banco
+-- Inicializa a tabela *dados* com nomes mais adequados ao negócio do Toshiro.
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
